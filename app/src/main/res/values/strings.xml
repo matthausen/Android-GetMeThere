@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GetMeThere</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="transport">
+        <item>Boeing 737</item>
+        <item>Ostrich</item>
+        <item>Speed of sound</item>
+        <item>Horse</item>
+        <item>Walking</item>
+        <item>Space Shuttle</item>
+    </string-array>
+    <color name="white">#FFFFFF</color>
+</resources>
